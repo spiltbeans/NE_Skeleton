@@ -1,0 +1,23 @@
+{
+  "name": "ne_skeleton",
+  "version": "1.0.0",
+  "description": "skeleton for Nodejs and Express app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spiltbeans/NE_Skeleton.git"
+  },
+  "author": "Eyas Valdez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spiltbeans/NE_Skeleton/issues"
+  },
+  "homepage": "https://github.com/spiltbeans/NE_Skeleton#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
